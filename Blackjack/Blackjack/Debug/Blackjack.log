@@ -1,0 +1,12 @@
+﻿  Player.cpp
+e:\visual studio 2015\projects\blackjack\blackjack\player.cpp(24): warning C4018: '<': signed/unsigned mismatch
+e:\visual studio 2015\projects\blackjack\blackjack\player.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Deck.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  Game.cpp
+  Generating Code...
+e:\visual studio 2015\projects\blackjack\blackjack\game.cpp(102): warning C4715: 'Game::keepPlaying': not all control paths return a value
+  Blackjack.vcxproj -> E:\Visual Studio 2015\Projects\Blackjack\Debug\Blackjack.exe
+  Blackjack.vcxproj -> E:\Visual Studio 2015\Projects\Blackjack\Debug\Blackjack.pdb (Partial PDB)

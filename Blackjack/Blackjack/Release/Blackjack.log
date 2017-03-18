@@ -1,0 +1,12 @@
+﻿  Deck.cpp
+  Game.cpp
+  main.cpp
+  Player.cpp
+Player.cpp(24): warning C4018: '<': signed/unsigned mismatch
+Player.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+e:\visual studio 2015\projects\blackjack\blackjack\game.cpp(102): warning C4715: 'Game::keepPlaying': not all control paths return a value
+  All 291 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Blackjack.vcxproj -> E:\Visual Studio 2015\Projects\Blackjack\Release\Blackjack.exe
+  Blackjack.vcxproj -> E:\Visual Studio 2015\Projects\Blackjack\Release\Blackjack.pdb (Full PDB)
